@@ -1,4 +1,4 @@
-project(text-comparator)
+project(app)
 
 add_executable(${PROJECT_NAME}
 	main.cpp
@@ -6,5 +6,5 @@ add_executable(${PROJECT_NAME}
 
 target_link_libraries(${PROJECT_NAME}
 	PRIVATE
-		libs::lib1
+		libs::text_comparator
 )

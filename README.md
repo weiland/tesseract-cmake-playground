@@ -14,8 +14,8 @@
 Components:
 
 - `src`.
-- `libs/lib1`.
-- `libs/lib1/tests`.
+- `libs/text_comparator`.
+- `libs/text_comparator/tests`.
 
 See [How to Use Modern CMake for an App + Lib Project](https://rvarago.github.io/2018/08/20/how-to-use-modern-cmake-for-an-app-p-lib-project.html) for more information.
 

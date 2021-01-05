@@ -3,7 +3,7 @@
 all: compile
 
 run: compile
-	cd build && ./src/text-comparator
+	cd build && ./app/app
 
 test: compile
 	cd build && ctest .

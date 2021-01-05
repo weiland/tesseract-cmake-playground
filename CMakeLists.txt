@@ -6,4 +6,4 @@ project(modern-cmake-template VERSION 0.0.1 LANGUAGES CXX)
 include(CTest)
 
 add_subdirectory(libs)
-add_subdirectory(src)
+add_subdirectory(app)
