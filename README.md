@@ -2,6 +2,15 @@
 
 > Template for projects based on modern CMake practices.
 
+## Tesseract
+
+* https://tesseract-ocr.github.io/tessdoc/APIExample.html
+* https://tesseract-ocr.github.io/tessdoc/Compiling.html
+* https://github.com/SoftwareNetwork/sw/blob/master/test/integrations/CMakeLists.txt
+* http://www.leptonica.org/ has to be included as well
+* https://cmake.org/cmake/help/latest/guide/tutorial/index.html CMake Tutorial (especially testing is good)
+* https://www.jetbrains.com/help/clion/cmakelists-txt-file.html
+
 Components:
 
 - `app`.
