@@ -1,4 +1,4 @@
-project(app)
+project(text-comparator)
 
 add_executable(${PROJECT_NAME}
 	main.cpp

@@ -13,7 +13,7 @@
 
 Components:
 
-- `app`.
+- `src`.
 - `libs/lib1`.
 - `libs/lib1/tests`.
 
